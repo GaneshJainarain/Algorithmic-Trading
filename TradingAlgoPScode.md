@@ -1,0 +1,4 @@
+# Trading Algo Pscode 
+
+### Initialization
+- 
