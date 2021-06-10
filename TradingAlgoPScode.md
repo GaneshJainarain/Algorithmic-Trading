@@ -12,13 +12,14 @@
     Calculate Simple Moving Average 50
     Calculate Simple Moving Average 200
     Calculate RSI Value
-        if RSI val >= 70:
+        ''' if RSI val >= 70:
             Make a Put
         elif RSI val =< 30:
             Make a Call
         elif 30 =< RSI val =< 70:
             SendToInDepthAnalysis(StockTicker)
     Calculate MACD 
+    '''
 
 
 
